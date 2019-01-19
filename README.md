@@ -1,6 +1,9 @@
 ![alt text](https://i.ibb.co/RT1sSZ4/Screenshot-96.png "Survivio Banner")
 
-# Welcome to Surviv+! 😃
+# Bienvenue sur Surviv+ LiNe:Master! 😃 (Sources: Photos:Youtube, Liens:GitHub, Code Dev 6LiNe)
+
+C'est un cheat crée par [reuke] (https://github.com/reuke) mais durant sont absence, j'ai décider de le retravailler, et de le modifier!
+Je crée donc une version anglaise avec explications simples.
 
 This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), but since he has been away, I've decided to take ownership of the development of the code.
 
@@ -22,12 +25,13 @@ This is a Surviv.io cheat loaded as a Chrome extension. It was originally develo
 
 ## 🔨 Installation
 
-1. Download [this repo as a ZIP file](https://github.com/Kalaborative/survivio-cheat/archive/master.zip). 
-2. Extract the ZIP file you just downloaded. 
-3. Go to `chrome://extensions` in your browser. *Make sure you have Developer Mode activated.*
-4. Click "Load Unpacked" and select the folder that you extracted (called `survivio-cheat-master`)
-5. Open [surviv.io](http://surviv.io).
+1. Download [this repo as a ZIP file](https://github.com/Kalaborative/survivio-cheat/archive/master.zip). [Ouvrez le fichier]
+2. Extract the ZIP file you just downloaded. [Extraire le fichier sur votre bureau]
+3. Go to `chrome://extensions` in your browser. *Make sure you have Developer Mode activated.* [Allez sur google, puis a gauche, trouver extensions!]
+4. Click "Load Unpacked" and select the folder that you extracted (called `survivio-cheat-master`) [Clickez sur charger un fichier non-empacketé]
+5. Open [surviv.io](http://surviv.io).[Accepter l'extension en haut à droite]
 
+Foire aux questions de Reuke et Kalaborativ. Repris par 6LiNe pour vos réponses!
 ## 🤔 FAQ
 > **'Unauthorized extension use detected', how to fix?**
 
@@ -57,3 +61,5 @@ This was on the store before, but it got taken down (not sure why). I could try 
 > **Are pull requests allowed?**
 
 Your contributions are always welcome. If you see something that should be improved or a feature added, feel free to fork this repo and create a PR. 
+
+Merci a Kalaborativ
