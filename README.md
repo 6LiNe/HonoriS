@@ -1,6 +1,7 @@
 ![alt text](https://i.ibb.co/RT1sSZ4/Screenshot-96.png "Survivio Banner")
 
-# Bienvenue sur Surviv+ LiNe:Master! 😃 (Sources: Photos:Youtube, Liens:GitHub, Code Dev 6LiNe)
+# Bienvenue sur Surviv+ LiNe:Master! 😃 
+(Sources: Photos:Youtube, Liens:GitHub, Code Dev 6LiNe)
 
 C'est un cheat crée par [reuke] (https://github.com/reuke) mais durant sont absence, j'ai décider de le retravailler, et de le modifier!
 Je crée donc une version anglaise avec explications simples.
@@ -10,17 +11,17 @@ This is a Surviv.io cheat loaded as a Chrome extension. It was originally develo
 
 ### 💪 Features
 
-* Aimbot with customizable prediction and speed settings
-* Custom zooming control with scroll wheel
-* Auto Clicker for semi automatic weapons
+* Aimbot with customizable prediction and speed settings        [Prédiction de shoot et aimbot]
+* Custom zooming control with scroll wheel          [viseur maximum]
+* Auto Clicker for semi automatic weapons               [auto shoot pour les shotguns]
 * Autoloot
-* Displays enemy lines
-* Transparent buildings, ceilings, obstacles, and trees
-* Lasersight (shot range)
-* Frag grenade timer
-* Custom key bindings
-* Custom cursors
-* FPS Counter
+* Displays enemy lines                [Crée une ligne entre l'ennemi et vous]
+* Transparent buildings, ceilings, obstacles, and trees  
+* Lasersight (shot range)  [montre ou tire votre arme]
+* Frag grenade timer   [compte le temps de boom d'une grenade]
+* Custom key bindings        [vos propres touches! (remettez vos touches de bases en défaut]
+* Custom cursors                        [Curseur custom]
+* FPS Counter<
 * Now supports in-game radio!
 
 ## 🔨 Installation
