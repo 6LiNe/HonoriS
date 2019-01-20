@@ -31,7 +31,7 @@ Chaque fonctionnalité peu être retiré individuelement
 
 1. Download [this repo as a ZIP file](https://github.com/Kalaborative/survivio-cheat/archive/master.zip). [Ouvrez le fichier]
 2. Extract the ZIP file you just downloaded. [Extraire le fichier sur votre bureau]
-3. Go to `chrome://extensions` in your browser. *Make sure you have Developer Mode activated.* [Allez sur google, puis a gauche, trouver extensions!]
+3. Go to `chrome://extensions` in your browser. *Make sure you have Developer Mode activated.* [Allez sur google, puis chercher  `chrome://extensions`dans votre navigateur ]
 4. Click "Load Unpacked" and select the folder that you extracted (called `survivio-cheat-master`) [Clickez sur charger un fichier non-empacketé]
 5. Open [surviv.io](http://surviv.io).[Accepter l'extension en haut à droite]
 
