@@ -1,10 +1,12 @@
 ![alt text](https://i.ibb.co/RT1sSZ4/Screenshot-96.png "Survivio Banner")
+![alt text](https://ibb.co/311xyQF "Survivio Banner 2")
 
 # Bienvenue sur Surviv+ LiNe:Master! 😃 
-(Sources: Photos:Youtube, Liens:GitHub, Code Dev 6LiNe)
+# (Sources: Screen:Youtube, Liens:GitHub, Code Dev 6LiNe)
 
-C'est un cheat crée par [reuke] (https://github.com/reuke) mais durant sont absence, j'ai décider de le retravailler, et de le modifier!
-Je crée donc une version anglaise avec explications simples.
+# C'est un cheat démarré par [reuke] (https://github.com/reuke) mais durant sont absence, j'ai décider de le retravailler, et de le modifier, pour en refaire une version améliorée, plus stable avec plus de fonctionnalités.
+
+Je met des détails en français pour ceux qui auraient du mal!
 
 This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), but since he has been away, I've decided to take ownership of the development of the code.
 
