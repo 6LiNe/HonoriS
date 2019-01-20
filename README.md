@@ -5,12 +5,11 @@
 
 Le "cheat" ne possède pas de godmod, donc c'est plus une aide qu'autre chose.
 Chaque fonctionnalité peu être retiré individuelement
+# [US] This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), but since he has been away, I've decided to take ownership of the development of the code.
 
-# Ceci un devcheat démarré mais jamais terminer, par [reuke] (https://github.com/reuke) j'ai décider de le retravailler, et de le modifier, pour en refaire une version améliorée, plus stable avec plus de fonctionnalités, en réutilisant les fonts et sprites.
+# [FR] Ceci un devcheat démarré mais jamais terminer, par [reuke] (https://github.com/reuke) j'ai décider de le retravailler, et de le modifier, pour en refaire une version améliorée, plus stable avec plus de fonctionnalités, en réutilisant les fonts et sprites.
 
-Je met des détails en français pour ceux qui auraient du mal!
-
-This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), but since he has been away, I've decided to take ownership of the development of the code.
+--Je met des détails en français pour ceux qui auraient du mal!--
 
 
 ### 💪 Features | Que fait-il ?
