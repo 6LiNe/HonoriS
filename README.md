@@ -37,7 +37,7 @@ Chaque fonctionnalité peu être retiré individuelement
 
 
 (Foire aux questions de Reuke et Kalaborativ. Repris par 6LiNe pour vos réponses!)
-## 🤔 FAQ
+## 🤔 FAQ [Pour une FAQ en français, venir parler a ScarLiNe sur discord ou sur github]
 > **'Unauthorized extension use detected', how to fix?**
 
 Fix: https://www.youtube.com/watch?v=pEEa6b3oXjA
