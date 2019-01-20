@@ -1,30 +1,32 @@
-![alt text](https://i.ibb.co/RT1sSZ4/Screenshot-96.png "Survivio Banner")
-![alt text](https://ibb.co/311xyQF "Survivio Banner 2")
-
 # Bienvenue sur Surviv+ LiNe:Master! 😃 
 # (Sources: Screen:Youtube, Liens:GitHub, Code Dev 6LiNe)
 
-# C'est un cheat démarré par [reuke] (https://github.com/reuke) mais durant sont absence, j'ai décider de le retravailler, et de le modifier, pour en refaire une version améliorée, plus stable avec plus de fonctionnalités.
+![alt text](https://i.ibb.co/RT1sSZ4/Screenshot-96.png "Survivio Banner")
+
+Le "cheat" ne possède pas de godmod, donc c'est plus une aide qu'autre chose.
+Chaque fonctionnalité peu être retiré individuelement
+
+# Ceci un devcheat démarré mais jamais terminer, par [reuke] (https://github.com/reuke) j'ai décider de le retravailler, et de le modifier, pour en refaire une version améliorée, plus stable avec plus de fonctionnalités, en réutilisant les fonts et sprites.
 
 Je met des détails en français pour ceux qui auraient du mal!
 
 This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), but since he has been away, I've decided to take ownership of the development of the code.
 
 
-### 💪 Features
+### 💪 Features | Que fait-il ?
 
 * Aimbot with customizable prediction and speed settings        [Prédiction de shoot et aimbot]
 * Custom zooming control with scroll wheel          [viseur maximum]
 * Auto Clicker for semi automatic weapons               [auto shoot pour les shotguns]
-* Autoloot
+* Autoloot                    [Drop auto ce qu'il te faut]
 * Displays enemy lines                [Crée une ligne entre l'ennemi et vous]
-* Transparent buildings, ceilings, obstacles, and trees  
+* Transparent buildings, ceilings, obstacles, and trees  [Les elements du décors serons transparents]
 * Lasersight (shot range)  [montre ou tire votre arme]
 * Frag grenade timer   [compte le temps de boom d'une grenade]
 * Custom key bindings        [vos propres touches! (remettez vos touches de bases en défaut]
 * Custom cursors                        [Curseur custom]
-* FPS Counter<
-* Now supports in-game radio!
+* FPS Counter<          [Vos nombres d'FPS sur votre gauche]
+* Now supports in-game radio!          [Une webradio sur surviv parceque ça en manquais tellement]
 
 ## 🔨 Installation
 
@@ -34,7 +36,8 @@ This is a Surviv.io cheat loaded as a Chrome extension. It was originally develo
 4. Click "Load Unpacked" and select the folder that you extracted (called `survivio-cheat-master`) [Clickez sur charger un fichier non-empacketé]
 5. Open [surviv.io](http://surviv.io).[Accepter l'extension en haut à droite]
 
-Foire aux questions de Reuke et Kalaborativ. Repris par 6LiNe pour vos réponses!
+
+(Foire aux questions de Reuke et Kalaborativ. Repris par 6LiNe pour vos réponses!)
 ## 🤔 FAQ
 > **'Unauthorized extension use detected', how to fix?**
 
@@ -65,4 +68,5 @@ This was on the store before, but it got taken down (not sure why). I could try 
 
 Your contributions are always welcome. If you see something that should be improved or a feature added, feel free to fork this repo and create a PR. 
 
-Merci a Kalaborativ
+Merci a Kalaborativ pour les reps F.A.Q et pour le screen!
+Crédits 6LiNe & reuke
