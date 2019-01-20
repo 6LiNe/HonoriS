@@ -67,5 +67,5 @@ This was on the store before, but it got taken down (not sure why). I could try 
 
 Your contributions are always welcome. If you see something that should be improved or a feature added, feel free to fork this repo and create a PR. 
 
-Merci a Kalaborativ pour les reps F.A.Q et pour le screen!
-Crédits 6LiNe & reuke
+# Merci a Kalaborativ pour les reps F.A.Q et pour le screen! [Kalaborativ]
+# Crédits 6LiNe & reuke    [6LiNe]   [reuke]
